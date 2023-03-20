@@ -1,7 +1,7 @@
 # StockUp
 StockUp is Basically a tool that will make your stock market investing journey smooth and easy. Instead of reading boring stocks data , let the machine be your companion to predict the future value of the stock. 
 Python libraries requirements:-
-1. yfianance
+1. yfinance
 2. Prophet
 2. Streamlit
 
